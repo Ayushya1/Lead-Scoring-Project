@@ -1,2 +1,2 @@
-# Lead-Squaring-Project
-Proejct for ACPDS program 
+# Lead-Scoring-Project
+Project for ACPDS program 
